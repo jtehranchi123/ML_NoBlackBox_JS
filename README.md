@@ -6,3 +6,5 @@
 - Tech Stack: JavaScript, NodeJS, HTML, CSS
 
 ![Image of Chart for feature selection implemented inside ML project](https://github.com/jtehranchi123/ML_NoBlackBox_JS-/blob/main/ChartPic_ML.png)
+
+* Above is an image of feature selection at play using the chart from the JS application to be able to select a drawing and see its location in the PathCount and PointCount features Chart.
